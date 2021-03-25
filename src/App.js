@@ -11,7 +11,7 @@ const App = () => (
       </Route>
       <Route path="/">
         <div>
-          <h1>Vädermeny</h1>
+          <h1>Startsida</h1>
           <Link to="/weather">Gå till väder för Stockholm</Link>
         </div>
       </Route>
