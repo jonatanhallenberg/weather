@@ -5,7 +5,7 @@ const Sidebar = (props) => (
   <nav id="navbar" className={props.visible ? "nav__show" : ""}>
     <ul>
       <li>
-        <Link to="/weather/Kiruna">Kiruna</Link>
+        <Link to="/weather/Kiruna">Kiruna 123</Link>
       </li>
       <li>
         <Link to="/weather/Stockholm">Stockholm</Link>
